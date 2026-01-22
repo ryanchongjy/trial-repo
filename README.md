@@ -6,3 +6,5 @@ new line from vscode
 edit from git
 
 new line
+
+new edit
